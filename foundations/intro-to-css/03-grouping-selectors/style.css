@@ -1,16 +1,17 @@
 /* style.css */
 
-button{
+.first,
+.second{
     font-family: Helvetica, "Times New Roman", sans-serif;
     font-size: 28px;
 }
 
-button.first{
+.first{
     font-weight: bold;
     color: #FFFFFF;
     background-color: #000000;
 }
 
-button.second{
+.second{
     background-color: yellow;
 }
