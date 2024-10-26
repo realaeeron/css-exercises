@@ -10,12 +10,11 @@
     font-size: 36px;
 }
 
-.odd-numbered.third-one{
+.ajust-font-size{
     font-size: 24px;
 }
 
 #fourth-element{
     background-color: #92f98a;
-    font-size: 24px;
     font-weight: bold;
 }
