@@ -13,3 +13,9 @@
 .odd-numbered.third-one{
     font-size: 24px;
 }
+
+#fourth-element{
+    background-color: #92f98a;
+    font-size: 24px;
+    font-weight: bold;
+}
