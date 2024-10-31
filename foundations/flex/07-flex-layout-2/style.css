@@ -12,6 +12,10 @@ ul {
   list-style: none;
 }
 
+li {
+  margin-bottom: 16px;
+}
+
 a {
   text-decoration: none;
   color: white;
@@ -48,15 +52,13 @@ a {
   background: royalblue;
   box-sizing: border-box;
   flex-shrink: 0; 
-  display: flex;
-  flex-direction: column;
   padding: 16px;
 }
 
 .card-wrapper {
   display: flex;
   flex-wrap: wrap;
-  gap: 16px;
+  gap: 32px;
   padding: 48px;
 }
 
@@ -64,6 +66,6 @@ a {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
-  padding: 48px;
-  max-width: 200px;
+  padding: 16px;
+  max-width: 300px;
 }
